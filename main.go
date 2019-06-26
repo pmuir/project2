@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"github.com/pmuir/project1/hello"
 	"log"
 	"net/http"
 )
@@ -17,7 +17,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		log.Printf("title: %s\n", title)
 	}
 
-	fmt.Fprintf(w, "Hello from:  "+title+"\n")
+	hello.SayHello()
 }
 
 func main() {
