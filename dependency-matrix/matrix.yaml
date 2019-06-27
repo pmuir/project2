@@ -4,4 +4,4 @@ dependencies:
   url: https://github.com/pmuir/project1
   component: foo
   version: 0.0.9
-  versionurl: ""
+  versionurl: https://github.com/pmuir/project1/releases/tag/v0.0.9
