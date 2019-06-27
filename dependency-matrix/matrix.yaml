@@ -1,0 +1,7 @@
+dependencies:
+- owner: pmuir
+  repo: project1
+  url: https://github.com/pmuir/project1
+  component: foo
+  version: ""
+  versionurl: ""
