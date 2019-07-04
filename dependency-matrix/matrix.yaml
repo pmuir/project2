@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: pmuir
+  repo: project1
+  url: https://github.com/pmuir/project1
+  version: 0.0.6
+  versionURL: https://github.com/pmuir/project1/releases/tag/v0.0.6
